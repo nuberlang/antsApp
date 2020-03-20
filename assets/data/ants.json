@@ -82,19 +82,19 @@
             "ca": ["madrid", "clm", "andalucia"]
         },
         "biology": {
-            "colonyType": ["monogina"],
+            "colonyType": ["monogamia"],
             "colonySize": [10000],
             "hibernation": [11, 2],
             "matingFlight": [],
-            "matingFlight_text": "  autuum\n\t\t\tfounding:  claustral (without feeding) colonyage up to 25 years\n\t\t\tcolonysize: up to 10.000 Individuals",
+            "matingFlight_text": "  autuum\n\t\t\tfounding:  claustral (sin alimentarse) puede vivir hasta 25 años\n\t\t\tcolonias de  hasta 10.000 individuos",
             "nutrition": ["semillas", "insectos"],
-            "nutrition_text": "Mostly seeds from different rampant plants (also grass) but also insects",
-            "description": "this species is a highly granivor ant which collects all kinds of small seeds and chew them into so- called antbread. most of their waterrequirements are covered by seeds and insects. honeywater is only accepted when there is a lack of moisture. messor barbarus tends to drown in open water so it is necessary to cover waterplaces with little stones or cotton."
+            "nutrition_text": "Principalmente semillas de diferentes plantas (también hierba), pero también insectos",
+            "description": "Esta especie es una hormiga principalmente granivora que recolecta todo tipo de semillas pequeñas y las mastica en el llamado pan de hormiga. La mayoría de sus necesidades de agua están cubiertas por semillas e insectos. El agua-miel solo se acepta cuando hay falta de humedad. Las Messor bárbarus tiende a ahogarse en aguas abiertas, por lo que es necesario cubrir los lugares con pequeñas piedras o algodón."
         },
         "keepingLevel": {
             "level": 1,
             "obj": ["alimentacion", "condicionesClimaticas"],
-            "text": "Species from Southern Europe with higher requirements towards food and climate"
+            "text": "Especies del sur de Europa con mayores requisitos de alimentación y clima."
         },
         "airhumidity": {
             "nest": [50, 70],
@@ -200,7 +200,7 @@
             "colonySize": [40000],
             "hibernation": [10, 3],
             "matingFlight": [5, 6],
-            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C\n\t\t\tfounding:  claustral (without feeding)\n\t\t\tfrom Egg to adult worker approx. 6 - 8 Weeks (Egg to Larvae: approx. 10 -12 days, Larvae to Pupae: approx. 10 -14 days, Pupae to worker :approx. 10 - 24 days, depending on temperature).\n\t\t\tThe maintime of activity is between april to october.The lifespan of the queen can be up to 15 years (still not completly clear) .\n\t\t\tcolonysize: up to 40.000 Individuals",
+            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C\n\t\t\tfounding:  claustral (sin alimentarse)\n\t\t\tfrom Egg to adult worker approx. 6 - 8 Weeks (Egg to Larvae: approx. 10 -12 days, Larvae to Pupae: approx. 10 -14 days, Pupae to worker :approx. 10 - 24 days, depending on temperature).\n\t\t\tThe maintime of activity is between april to october.The lifespan of the queen can be up to 15 years (still not completly clear) .\n\t\t\tcolonysize: up to 40.000 Individuals",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosquitos",
             "description": "very tough and well-fortified ants, which will grow to a great colony by good support. within 3 years they can reach a population up to 10.000 workers. in nature they cultivate sap insects on roses, elder, red-/black-currant and so on."
@@ -314,7 +314,7 @@
             "colonySize": [10000],
             "hibernation": [10, 2],
             "matingFlight": [6],
-            "matingFlight_text": " on warm days in june\n\t\t\tfounding:  claustral (without feeding) \n\t\t\tcolonysize: up to 10.000 Individuals",
+            "matingFlight_text": " on warm days in june\n\t\t\tfounding:  claustral (sin alimentarse) \n\t\t\tcolonias de  hasta 10.000 individuos",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosquitos",
             "description": "camponotus barbaricus is one of the biggest ant species in europe. very tough! they attack only in case of nest disturbance. shows activity at day and night .they build their nests preferably underneath wood or stones. a radiant heater should heaten a stone or an area of the antfarm from time to time."
@@ -429,7 +429,7 @@
             "colonySize": [40000],
             "hibernation": [10, 3],
             "matingFlight": [7, 9],
-            "matingFlight_text": " on warm days july to begin of september\n\t\t\tfounding:  claustral (without feeding), often Pleometrosis  with up to 20 Queens and Adoption\n\t\t\tcolonysize: up to 40.000 Individuals",
+            "matingFlight_text": " on warm days july to begin of september\n\t\t\tfounding:  claustral (sin alimentarse), often Pleometrosis  with up to 20 Queens and Adoption\n\t\t\tcolonysize: up to 40.000 Individuals",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosqitos",
             "description": "lasius flavus is complete subterrainean antspecie which harvest honeydew from rootaphids"
@@ -543,7 +543,7 @@
             "colonySize": [40000],
             "hibernation": [],
             "matingFlight": [],
-            "matingFlight_text": " -\n            founding:  claustral (without feeding) \n            colonysize: up to 40.000 Individuals\n            ",
+            "matingFlight_text": " -\n            founding:  claustral (sin alimentarse) \n            colonysize: up to 40.000 Individuals\n            ",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like flies or mosquitos",
             "description": "very aggressive and tough ants similar to lasius niger"
@@ -656,7 +656,7 @@
             "colonySize": [10000],
             "hibernation": [10, 3],
             "matingFlight": [5, 6],
-            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C , \n            founding:  claustral (without feeding) \n            colonysize: up to 10.000 Individuals\n            ",
+            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C , \n            founding:  claustral (sin alimentarse) \n            colonias de  hasta 10.000 individuos\n            ",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosquitos",
             "description": "formica cinerea is a very aggressive ant. as a adaption to their open range habitat they use visual orientation. they overwhelm and transport large prey in small cooperating groups."
@@ -770,7 +770,7 @@
             "colonySize": [100000],
             "hibernation": [11, 2],
             "matingFlight": [8, 10],
-            "matingFlight_text": "  August - October\n\t\t\tfounding:  claustral (without feeding) \n\t\t\tcolonysize: up to 100.000 Individuals",
+            "matingFlight_text": "  August - October\n\t\t\tfounding:  claustral (sin alimentarse) \n\t\t\tcolonysize: up to 100.000 Individuals",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater, insects",
             "description": "this species is one of the smallest ants in germany. in their natural environment they collect brood from other ants. they are often associated with their host ants e.g. lasius spec. or serviformica spec. ."
@@ -778,7 +778,7 @@
         "keepingLevel": {
             "level": 1,
             "obj": ["alimentacion", "condicionesClimaticas", "escapistas"],
-            "text": "Species from Southern Europe with higher requirements towards food and climate as well as escape prevention"
+            "text": "Especies del sur de Europa con mayores requisitos de alimentación y clima. as well as escape prevention"
         },
         "airhumidity": {
             "nest": [50, 70],
@@ -883,7 +883,7 @@
             "colonySize": [10000],
             "hibernation": [10, 3],
             "matingFlight": [5, 6],
-            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C\n\t\t\tfounding:  claustral (without feeding) but also Pleometrosis or Adoptions are possible.\n\t\t\tfrom Egg to adult worker approx. 8 - 10 Weeks (Egg to Larvae: approx. 10 -16 days, Larvae to Pupae: approx. 10 -14 days, Pupae to worker :approx. 10 - 24 days, depending on temperature).\n\t\t\tThe main time of activity is between april to september.The lifespan of the queen can be up to 15 years (still not completely clear) . \n\t\t\tcolonysize: up to 10.000 Individuals",
+            "matingFlight_text": " on warm days mid - may to the end of june at 22 - 28°C\n\t\t\tfounding:  claustral (sin alimentarse) but also Pleometrosis or Adoptions are possible.\n\t\t\tfrom Egg to adult worker approx. 8 - 10 Weeks (Egg to Larvae: approx. 10 -16 days, Larvae to Pupae: approx. 10 -14 days, Pupae to worker :approx. 10 - 24 days, depending on temperature).\n\t\t\tThe main time of activity is between april to september.The lifespan of the queen can be up to 15 years (still not completely clear) . \n\t\t\tcolonias de  hasta 10.000 individuos",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosquitos",
             "description": "camponotus herculeanus is one of the biggest ant species in europe. very inactiv and tough! they attack only in case of nest disturbance. shows activity by day and night .they build their nests preferably underneath wood or stones. a radiant heater should heat a stone or an angle of the antfarm from time to time."
@@ -997,7 +997,7 @@
             "colonySize": [10000],
             "hibernation": [11, 2],
             "matingFlight": [5, 6],
-            "matingFlight_text": " on warm days in May / June, \n            founding:  claustral (without feeding) \n            colonysize: up to 10.000 Individuals",
+            "matingFlight_text": " on warm days in May / June, \n            founding:  claustral (sin alimentarse) \n            colonias de  hasta 10.000 individuos",
             "nutrition": ["mielato", "insectos"],
             "nutrition_text": "Honeywater and insects e.g. Dipterans like Flies or Mosquitos",
             "description": "camponotus cruentatus is one of the biggest ant species in europe. very tough! they attack only in case of nest disturbance. they defend themselves with their strong mandibles and their acidgland"
@@ -1111,7 +1111,7 @@
             "colonySize": [10000],
             "hibernation": [11, 2],
             "matingFlight": [5, 9],
-            "matingFlight_text": "  May - September\n\t\t\tfounding:  claustral (without feeding) \n\t\t\tcolonysize: up to 10.000 Individuals",
+            "matingFlight_text": "  May - September\n\t\t\tfounding:  claustral (sin alimentarse) \n\t\t\tcolonias de  hasta 10.000 individuos",
             "nutrition": ["mielato", "insectos", "semillas"],
             "nutrition_text": "Honeywater, insects, also small seeds",
             "description": "this species is a small ant from southeurope. they are very aggressive against other ants and can recrute quickly towards feeding places. they need a huge amount of food so with a lack they try to escape very soon. therefore it is nesseccary to have a good working escape prevention."
@@ -1119,7 +1119,7 @@
         "keepingLevel": {
             "level": 2,
             "obj": ["alimentacion", "condicionesClimaticas", "escapistas"],
-            "text": "Species from Southern Europe with higher requirements towards food and climate as well as escape prevention"
+            "text": "Especies del sur de Europa con mayores requisitos de alimentación y clima. as well as escape prevention"
         },
         "airhumidity": {
             "nest": [50, 70],
